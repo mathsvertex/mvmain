@@ -1,0 +1,8 @@
+{
+  "name": "MathsVertex — Competitive Math Coaching",
+  "description": "Live online maths coaching from school syllabus to Olympiad level (IMO, MAT, ASSET, Mental Maths) in small batches of 6 with verified mentors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
